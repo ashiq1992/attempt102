@@ -18,13 +18,13 @@
 	
   <dependencies>
     
-	  <!-- https://mvnrepository.com/artifact/org.jenkins-ci.main/jenkins-core -->
+<!-- https://mvnrepository.com/artifact/org.apache.struts/struts-core -->
 <dependency>
-    <groupId>org.jenkins-ci.main</groupId>
-    <artifactId>jenkins-core</artifactId>
-    <version>1.409</version>
-    <scope>provided</scope>
+    <groupId>org.apache.struts</groupId>
+    <artifactId>struts-core</artifactId>
+    <version>1.3.8</version>
 </dependency>
+
 
   </dependencies>
 </project>
