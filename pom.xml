@@ -8,7 +8,7 @@
 
   <name>Example for Maven/Travis CI</name>
   <description>Provide an example of configuring a Maven project to scan for vulnerabilities</description>
-  <url>https://github.com/BlackDuckCoPilot/example-maven-travis</url>
+  <url>https://github.com/ashiq1992/attempt102</url>
   <inceptionYear>2017</inceptionYear>
 
   <properties>
