@@ -17,12 +17,13 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.elasticsearch/elasticsearch -->
+<!-- https://mvnrepository.com/artifact/org.keycloak/keycloak-core -->
 <dependency>
-    <groupId>org.elasticsearch</groupId>
-    <artifactId>elasticsearch</artifactId>
-    <version>1.2.0</version>
+    <groupId>org.keycloak</groupId>
+    <artifactId>keycloak-core</artifactId>
+    <version>4.0.0.Final</version>
 </dependency>
+
 
 
 
