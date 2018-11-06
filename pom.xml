@@ -17,11 +17,11 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.openmeetings/openmeetings-util -->
+<!-- https://mvnrepository.com/artifact/io.pivotal/pivotal-cloudfoundry-client -->
 <dependency>
-    <groupId>org.apache.openmeetings</groupId>
-    <artifactId>openmeetings-util</artifactId>
-    <version>3.1.2</version>
+    <groupId>io.pivotal</groupId>
+    <artifactId>pivotal-cloudfoundry-client</artifactId>
+    <version>1.0.0.RELEASE</version>
 </dependency>
 
 
