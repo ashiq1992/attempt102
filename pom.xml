@@ -17,12 +17,13 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.rave/rave-core -->
+<!-- https://mvnrepository.com/artifact/org.fitnesse/fitnesse -->
 <dependency>
-    <groupId>org.apache.rave</groupId>
-    <artifactId>rave-core</artifactId>
-    <version>0.20</version>
+    <groupId>org.fitnesse</groupId>
+    <artifactId>fitnesse</artifactId>
+    <version>20140201</version>
 </dependency>
+
 
 
 
