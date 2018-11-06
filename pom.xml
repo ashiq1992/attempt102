@@ -17,12 +17,11 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.tomcat/catalina -->
+<!-- https://mvnrepository.com/artifact/org.apache.cxf/cxf-rt-transports-http -->
 <dependency>
-    <groupId>org.apache.tomcat</groupId>
-    <artifactId>catalina</artifactId>
-    <version>6.0.35</version>
-    <scope>provided</scope>
+    <groupId>org.apache.cxf</groupId>
+    <artifactId>cxf-rt-transports-http</artifactId>
+    <version>2.2.8</version>
 </dependency>
 
 
