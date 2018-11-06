@@ -17,13 +17,12 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.glassfish.common/glassfish-api -->
+<!-- https://mvnrepository.com/artifact/org.apache.rave/rave-core -->
 <dependency>
-    <groupId>org.glassfish.common</groupId>
-    <artifactId>glassfish-api</artifactId>
-    <version>3.1.1</version>
+    <groupId>org.apache.rave</groupId>
+    <artifactId>rave-core</artifactId>
+    <version>0.20</version>
 </dependency>
-
 
 
 
