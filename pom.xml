@@ -17,11 +17,11 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.jenkins-ci.main/jenkins-core -->
+<!-- https://mvnrepository.com/artifact/org.apache.tomcat/catalina -->
 <dependency>
-    <groupId>org.jenkins-ci.main</groupId>
-    <artifactId>jenkins-core</artifactId>
-    <version>2.19.4</version>
+    <groupId>org.apache.tomcat</groupId>
+    <artifactId>catalina</artifactId>
+    <version>6.0.35</version>
     <scope>provided</scope>
 </dependency>
 
