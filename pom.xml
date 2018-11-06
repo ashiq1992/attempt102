@@ -17,12 +17,13 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/io.pivotal/pivotal-cloudfoundry-client-reactor -->
+<!-- https://mvnrepository.com/artifact/org.elasticsearch/elasticsearch -->
 <dependency>
-    <groupId>io.pivotal</groupId>
-    <artifactId>pivotal-cloudfoundry-client-reactor</artifactId>
-    <version>1.0.0.RELEASE</version>
+    <groupId>org.elasticsearch</groupId>
+    <artifactId>elasticsearch</artifactId>
+    <version>1.2.0</version>
 </dependency>
+
 
 
 
