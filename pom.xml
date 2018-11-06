@@ -17,12 +17,13 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.ignite/ignite-core -->
+<!-- https://mvnrepository.com/artifact/org.glassfish.main.common/glassfish-api -->
 <dependency>
-    <groupId>org.apache.ignite</groupId>
-    <artifactId>ignite-core</artifactId>
-    <version>1.9.0</version>
+    <groupId>org.glassfish.main.common</groupId>
+    <artifactId>glassfish-api</artifactId>
+    <version>3.1.2</version>
 </dependency>
+
 
 
 
