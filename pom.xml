@@ -17,10 +17,10 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina -->
+<!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-coyote -->
 <dependency>
     <groupId>org.apache.tomcat</groupId>
-    <artifactId>tomcat-catalina</artifactId>
+    <artifactId>tomcat-coyote</artifactId>
     <version>7.0.0</version>
 </dependency>
 
