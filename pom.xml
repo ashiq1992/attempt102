@@ -17,14 +17,13 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.karaf/apache-karaf -->
+<!-- https://mvnrepository.com/artifact/org.elasticsearch/elasticsearch -->
 <dependency>
-    <groupId>org.apache.karaf</groupId>
-    <artifactId>apache-karaf</artifactId>
-    <version>4.0.4</version>
-    <type>pom</type>
-    <scope>test</scope>
+    <groupId>org.elasticsearch</groupId>
+    <artifactId>elasticsearch</artifactId>
+    <version>1.1.1</version>
 </dependency>
+
 
 
 
