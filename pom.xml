@@ -17,11 +17,11 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/checkstyle/checkstyle -->
+<!-- https://mvnrepository.com/artifact/io.undertow/undertow-core -->
 <dependency>
-    <groupId>checkstyle</groupId>
-    <artifactId>checkstyle</artifactId>
-    <version>3.4</version>
+    <groupId>io.undertow</groupId>
+    <artifactId>undertow-core</artifactId>
+    <version>1.2.0.Final</version>
 </dependency>
 
 
