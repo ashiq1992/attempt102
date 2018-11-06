@@ -17,11 +17,11 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/io.undertow/undertow-core -->
+<!-- https://mvnrepository.com/artifact/org.apache.openmeetings/openmeetings-util -->
 <dependency>
-    <groupId>io.undertow</groupId>
-    <artifactId>undertow-core</artifactId>
-    <version>1.2.0.Final</version>
+    <groupId>org.apache.openmeetings</groupId>
+    <artifactId>openmeetings-util</artifactId>
+    <version>3.1.2</version>
 </dependency>
 
 
