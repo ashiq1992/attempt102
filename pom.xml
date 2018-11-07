@@ -17,12 +17,13 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.flex.blazeds/flex-messaging-core -->
+<!-- https://mvnrepository.com/artifact/org.cloudfoundry.identity/cloudfoundry-identity-login -->
 <dependency>
-    <groupId>org.apache.flex.blazeds</groupId>
-    <artifactId>flex-messaging-core</artifactId>
-    <version>4.7.1</version>
+    <groupId>org.cloudfoundry.identity</groupId>
+    <artifactId>cloudfoundry-identity-login</artifactId>
+    <version>2.7.4.6</version>
 </dependency>
+
 
 
 
