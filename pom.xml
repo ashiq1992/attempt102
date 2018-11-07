@@ -20,7 +20,7 @@
 <!-- https://mvnrepository.com/artifact/org.apache.karaf.jaas/org.apache.karaf.jaas.boot -->
 <dependency>
     <groupId>org.apache.karaf.jaas</groupId>
-    <artifactId>apache-karaf</artifactId>
+    <artifactId>org.apache.karaf.jaas.boot</artifactId>
     <version>4.0.7</version>
 </dependency>
 
