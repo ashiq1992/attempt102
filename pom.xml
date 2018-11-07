@@ -17,12 +17,13 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.karaf.jaas/org.apache.karaf.jaas.boot -->
+<!-- https://mvnrepository.com/artifact/org.elasticsearch/elasticsearch -->
 <dependency>
-    <groupId>org.apache.karaf.jaas</groupId>
-    <artifactId>org.apache.karaf.jaas.boot</artifactId>
-    <version>4.0.7</version>
+    <groupId>org.elasticsearch</groupId>
+    <artifactId>elasticsearch</artifactId>
+    <version>1.6.0</version>
 </dependency>
+
 
 
 
