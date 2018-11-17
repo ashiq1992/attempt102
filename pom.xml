@@ -17,12 +17,10 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.activemq/apache-artemis -->
 <dependency>
     <groupId>org.apache.activemq</groupId>
-    <artifactId>apache-artemis</artifactId>
+    <artifactId>artemis-commons</artifactId>
     <version>1.0.0</version>
-    <type>pom</type>
 </dependency>
 
 
