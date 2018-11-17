@@ -17,12 +17,13 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/com.oracle.java/jre -->
+<!-- https://mvnrepository.com/artifact/org.elasticsearch/elasticsearch -->
 <dependency>
-    <groupId>com.oracle.java</groupId>
-    <artifactId>jre</artifactId>
-    <version>1.8.0_51</version>
+    <groupId>org.elasticsearch</groupId>
+    <artifactId>elasticsearch</artifactId>
+    <version>1.4.4</version>
 </dependency>
+
 
 
 
