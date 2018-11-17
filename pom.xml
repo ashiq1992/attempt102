@@ -17,10 +17,11 @@
   </properties>
 	
   <dependencies>
+<!-- https://mvnrepository.com/artifact/org.elasticsearch/elasticsearch -->
 <dependency>
-    <groupId>org.apache.activemq</groupId>
-    <artifactId>artemis-commons</artifactId>
-    <version>1.0.0</version>
+    <groupId>org.elasticsearch</groupId>
+    <artifactId>elasticsearch</artifactId>
+    <version>1.4.5</version>
 </dependency>
 
 
